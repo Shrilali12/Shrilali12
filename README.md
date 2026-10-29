@@ -1,15 +1,16 @@
+ <div align="center">
 
-<div align="center">
-
-# ✨ Hi, I'm Shrilali M N Gowda
+# ✨ Shrilali M N Gowda
 
 ### 💻 Aspiring Java Full Stack Developer
 
-Building my skills one project at a time 🌱
+**Learning Java. Mastering SQL. Building with purpose.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Emerald-087F5B?style=for-the-badge)](https://shrilali-portfoli.netlify.app)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=087F5B&center=true&vCenter=true&width=600&lines=Practicing+Java+Every+Day;Writing+MySQL+Queries;Learning+Data+Structures+%26+Algorithms;Growing+One+Project+at+a+Time" alt="Developer learning journey" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-087F5B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shrilali-portfoli.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shrilali-m-n-gowda/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shrilali12)
+[![Email](https://img.shields.io/badge/Email-Contact-C9A227?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrilalinatesh@gmail.com)
 
 </div>
 
@@ -17,53 +18,76 @@ Building my skills one project at a time 🌱
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA Graduate — 2026
-- 🌱 Learning Java, SQL, and backend development
-- 💡 Interested in software development and problem-solving
-- 🔭 Academic project: **WildHealth**
-- 🎯 Goal: Grow as a Java Full Stack Developer
-- 📍 India
+Hello! I'm Shrilali, a 2026 BCA graduate interested in Java development, databases, and building useful software.
 
-## 🛠️ Technologies & Tools
+- ☕ Learning Java programming and Object-Oriented Programming
+- 🗄️ Practicing SQL queries and MySQL database concepts
+- 🧠 Strengthening problem-solving and DSA fundamentals
+- 🌱 Exploring full stack application development
+- 🐾 Working on my academic project, **WildHealth**
+- 🎯 Goal: Become a skilled Java Full Stack Developer
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+## 📚 My Learning Roadmap
+
+| Topic | Current Focus |
+|---|---|
+| ☕ Java | Syntax, loops, arrays, methods and OOP |
+| 🗄️ MySQL | SELECT, WHERE, JOIN, GROUP BY and subqueries |
+| 🧠 DSA | Arrays, strings, searching and sorting |
+| 🌐 Web | HTML, CSS and responsive design |
+| 🚀 Projects | Building practical applications and documenting my work |
 
 ## 🚀 Featured Project
 
 ### 🐾 WildHealth — Wildlife Health Monitor System
 
-A wildlife health records project designed to support conservation staff and veterinary professionals.
+An academic project focused on organizing wildlife health records for conservation staff and veterinary professionals.
 
-- Organizes wildlife health information
-- Focuses on conservation and animal care
-- Academic team project
+- 🌿 Digital wildlife health record management
+- 🩺 Designed around conservation and veterinary workflows
+- 🤝 Developed as an academic team project
 
-**Technologies:** Add the exact technologies used in your implementation.
+**Status:** Academic project — repository coming soon.
 
-## 📚 Currently Learning
+## 📊 My GitHub Activity
 
-- Java fundamentals and OOP
-- SQL queries and database concepts
-- Data structures and algorithms
-- Full stack application development
+<div align="center">
 
-## 🌐 Connect With Me
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrilali12&show_icons=true&hide_border=true&bg_color=0D1B16&title_color=E7C66A&icon_color=2ECC71&text_color=E5EEE8" alt="GitHub statistics" />
 
-📧 Email: shrilalinatesh@gmail.com
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrilali12&layout=compact&hide_border=true&bg_color=0D1B16&title_color=E7C66A&text_color=E5EEE8" alt="Most used programming languages" />
 
-💼 [LinkedIn](https://www.linkedin.com/in/shrilali-m-n-gowda/)
+</div>
 
-🌍 [Portfolio Website](https://shrilali-portfoli.netlify.app)
+## 🌱 My Developer Philosophy
+
+> Consistency over perfection. Every problem solved is progress.
+
+I believe in learning by doing, practicing regularly, and improving through real projects.
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shrilali-m-n-gowda/)
+- 🌍 Portfolio: [Explore my portfolio](https://shrilali-portfoli.netlify.app)
+- 📧 Email: [shrilalinatesh@gmail.com](mailto:shrilalinatesh@gmail.com)
+- 💻 GitHub: [@Shrilali12](https://github.com/Shrilali12)
 
 ---
 
 <div align="center">
 
-✨ *Learning. Building. Improving. Every day.* ✨
+**✨ Learn • Build • Improve • Repeat ✨**
+
+<sub>Thanks for visiting my profile!</sub>
 
 </div>
