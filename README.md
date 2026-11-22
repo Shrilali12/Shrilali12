@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Shrilali M N Gowda - Developer Banner">
+  <img src="./banner.png" width="100%" alt="Shrilali M N Gowda - Developer Banner">
 </p>
 <!-- ═══════════════ HEADER ═══════════════ -->
 
