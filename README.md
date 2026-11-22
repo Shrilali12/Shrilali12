@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Shrilali M N Gowda - Developer Banner">
+</p>
 <!-- ═══════════════ HEADER ═══════════════ -->
 
 <div align="center">
