@@ -1,124 +1,152 @@
-# Shrilali M N Gowda
-### Full Stack Developer Intern | Java & Web Development
+<!-- ═══════════════ HEADER ═══════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B241C&height=170&section=header&text=Building%20Ideas%20Into%20Software&fontSize=30&fontColor=E5C98A&fontAlignY=50&desc=Java%20%7C%20SQL%20%7C%20Web%20Development&descSize=14&descColor=FFFFFF&descAlignY=72" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Curious mind. Practical approach. Continuous growth.</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=071B16&height=230&section=header&text=SHRILALI%20M%20N%20GOWDA&fontSize=39&fontColor=D9BD83&fontAlignY=43&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20LIFELONG%20LEARNER&descSize=12&descColor=E5E7EB&descAlignY=62" width="100%"/>
 
----
+<br/>
 
-## 01 / THE PERSON BEHIND THE CODE
+**I turn curiosity into code, and ideas into working solutions.**
 
-I'm a BCA graduate (2026) and Full Stack Intern focused on building practical software solutions and strengthening my development skills.
+`JAVA DEVELOPMENT` &nbsp; · &nbsp; `WEB TECHNOLOGIES` &nbsp; · &nbsp; `DATABASES`
 
-I enjoy turning ideas into functional applications, exploring how systems work behind the scenes, and learning technologies by building real projects.
+[Portfolio](https://shrilali-portfoli.netlify.app) &nbsp; ◈ &nbsp; [LinkedIn](https://www.linkedin.com/in/shrilali-m-n-gowda/) &nbsp; ◈ &nbsp; [Email](mailto:shrilalinatesh@gmail.com)
 
-Currently sharpening my Java development skills and exploring full-stack application development through hands-on practice.
-
-- 🎓 BCA Graduate — 2026
-- 💻 Placement Training — TAP Academy
-- 🌱 Currently learning Java Full Stack Development
-- 🎯 Interested in Java Development and Web Technologies
-- 📍 Bengaluru, India
+</div>
 
 ---
 
-## 02 / MY TECHNOLOGY TOOLKIT
+### 01 — A LITTLE ABOUT ME
 
-**Languages & Web**
- 
-![Java](https://img.shields.io/badge/Java-173F35?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-173F35?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-173F35?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-173F35?style=flat-square&logo=javascript&logoColor=white)
+<table>
+<tr>
+<td width="58%" valign="top">
 
-**Database & Backend**
+I'm **Shrilali**, a BCA graduate and Full Stack Intern based in Bengaluru, India.
 
-![MySQL](https://img.shields.io/badge/MySQL-173F35?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-173F35?style=flat-square&logo=mongodb&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-173F35?style=flat-square&logo=springboot&logoColor=white)
+I enjoy understanding how software works, exploring new technologies and creating applications that solve practical problems.
 
-**Core Concepts**
+My current focus is strengthening my Java fundamentals and growing into a capable full-stack developer.
 
-`Core Java` · `OOP` · `DSA` · `DBMS` · `SQL`
+**What drives me?**
+
+Building something, understanding what happens behind it, and making it better every time.
+
+</td>
+<td width="42%" valign="top">
+
+**CURRENT CHAPTER**
+
+🎓 BCA · 2026
+
+💻 Full Stack Intern
+
+📍 Bengaluru, India
+
+🌱 Java Full Stack Development
+
+🎯 Practical software development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 03 / PROJECTS IN PROGRESS & DEVELOPMENT
+### 02 — THE TOOLS I WORK WITH
 
-I believe projects are where learning becomes real.
+<sub>MY DEVELOPMENT WORKSPACE / TECHNOLOGY STACK</sub>
 
-### 01 — WildHealth
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01. LANGUAGES & WEB**
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js&theme=dark" />
+
+</td>
+<td width="50%" valign="top">
+
+**02. DATABASE & BACKEND**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,spring&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**03. FUNDAMENTALS**
+
+`Core Java` &nbsp; `OOP` &nbsp; `DSA` &nbsp; `DBMS` &nbsp; `SQL`
+
+</td>
+</tr>
+</table>
+
+<sub>Currently developing my skills in Spring Boot and full-stack application development.</sub>
+
+---
+
+### 03 — SELECTED WORK / PROJECT SPOTLIGHT
+
+<sub>IDEAS THAT MADE IT BEYOND THE NOTEBOOK</sub>
+
+<table>
+<tr>
+<td width="100%">
+
+<img src="https://img.shields.io/badge/FEATURED%20PROJECT-1B4332?style=flat-square&labelColor=071B16"/>
+
+### WILDHEALTH
 **Wildlife Health Monitor System**
 
-A wildlife healthcare and conservation management application designed to support Forest Department staff and Veterinary Doctors.
+A digital wildlife healthcare and conservation management platform designed for Forest Department staff and Veterinary Doctors.
 
-- Wildlife image upload and AI-assisted analysis.
-- Forest and veterinary reporting modules.
-- Digital wildlife health records.
-- Report generation and sharing.
+| THE FOCUS | THE APPROACH |
+|:--|:--|
+| Wildlife monitoring | Image-based analysis |
+| Digital records | Forest and veterinary reports |
+| Healthcare documentation | AI-assisted report generation |
+
+**TECHNOLOGIES**
 
 `HTML` `CSS` `Python` `MongoDB` `JavaScript` `OpenCV`
 
-### 02 — UrbanX
-**Bengaluru Smart City Simulation**
-
-An interactive smart city simulation inspired by Central Bengaluru, exploring how technology can represent and monitor an urban environment.
-
-- 3D city environment.
-- Traffic and signal management.
-- Population and building information.
-- Smart city dashboard.
-
-`Java` `Spring Boot` `MySQL` `Three.js`
+</td>
+</tr>
+</table>
 
 ---
 
-## 04 / BEYOND THE CODE
+### 04 — WHAT I BRING BEYOND CODE
 
-I also value the skills that make development collaborative and meaningful.
-
-- Problem Solving
-- Team Collaboration
-- Communication
-- Analytical Thinking
-- Leadership
-- Time Management
+| Strength | How I approach it |
+|:--|:--|
+| Problem solving | Break complex tasks into manageable steps |
+| Teamwork | Collaborate and share responsibilities |
+| Leadership | Take ownership and support the team |
+| Adaptability | Learn, experiment and improve |
 
 ---
 
-## 05 / MY DEVELOPMENT PHILOSOPHY
+### 05 — THE LEARNING LOG
 
-> Don't just learn a technology. Understand it, experiment with it, and build something meaningful with it.
+**Not every milestone is a finished project. Some are foundations being built.**
 
-I'm not trying to know everything at once. I'm focused on building strong fundamentals, improving consistently, and becoming a developer who can turn real-world problems into useful software.
+- Strengthening Core Java and OOP concepts.
+- Practising SQL and database queries.
+- Exploring Spring Boot.
+- Improving frontend development skills.
+- Building practical applications.
 
 ---
 
-## 06 / LET'S CONNECT
+<div align="center">
 
-I'm open to connecting with developers, recruiters and people working on interesting technology projects.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=071B16&height=115&section=footer&text=BUILD%20WITH%20PURPOSE.&fontSize=23&fontColor=D9BD83&fontAlignY=43&desc=Stay%20curious.%20Keep%20creating.&descSize=12&descColor=FFFFFF&descAlignY=67" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shrilali-m-n-gowda/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-173F35?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://shrilali-portfoli.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-C7A66A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:shrilalinatesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-173F35?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**SHRILALI M N GOWDA** · © 2026
 
-<p align="center">
-  <i>Designed with curiosity. Developed with purpose.</i>
-</p>
-
-<p align="center">
-  © 2026 Shrilali M N Gowda
-</p>
+</div>
